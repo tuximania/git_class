@@ -8,5 +8,6 @@ Soy docnete del Instituto Nacional de El Sauce, actualmente estoy estás estudia
 *Aprendizaje por proyectos
 
 # Datos de Contacto
+*https://www.linkedin.com/in/rvasquez43/
 *roberto.carlos.vasquez@clases.edu.sv
 *Tel 77297594
